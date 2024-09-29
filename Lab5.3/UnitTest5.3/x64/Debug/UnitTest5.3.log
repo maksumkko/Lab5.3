@@ -1,0 +1,5 @@
+﻿  UnitTest5.3.cpp
+C:\Users\maxga\source\repos\Lab5.3\UnitTest5.3\UnitTest5.3.cpp(16,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest5.3.cpp')
+  
+  UnitTest5.3.vcxproj -> C:\Users\maxga\source\repos\Lab5.3\x64\Debug\UnitTest5.3.dll
